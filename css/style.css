@@ -26,3 +26,9 @@ main {
 .offcanvas-top{
     height: fit-content;
 }
+
+/* Sección para detalles en fondo oscuro */
+#detailsContainer h5, 
+#detailsContainer p {
+    color: #ffffff; /* Texto en blanco para contraste en fondo oscuro */
+}
